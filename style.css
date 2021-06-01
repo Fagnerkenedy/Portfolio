@@ -94,7 +94,7 @@ header{
     background: #e9d362;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right,#464545, #ecd97a,#464545);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right,#464545, #ecd97a,#464545); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    padding: 1rem 2.5rem;
+    padding: 0.7rem 2.5rem;
     border: none;
     border-radius: 5px;
     cursor: pointer;
